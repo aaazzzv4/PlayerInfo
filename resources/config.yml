@@ -1,42 +1,42 @@
 ---
-# Configuration for PlayerInfo
-# True = enabled
-# False = disabled
+# Configuration For PlayerInfo Plugin By Matthww
+# True = Enabled
+# False = Disabled
 
 #Save playerdata
-Save: true
+Save: false
 
 # Show players name
-Name: true
+Name: false
 
 # Show players IP
-IP: true
+IP: false
 
 # Show players ping
-Ping: true
+Ping: false
 
 # Show players Device OS
 # (Android, iOS etc.)
-OS: true
+OS: false
 
 # Show players Device Model
 # (iPhone 7 etc.)
-Model: true
+Model: false
 
 # Show players UI settings
 # (Classic UI or Pocket UI)
-UI: true
+UI: false
 
 # Show players GUI scale settings
-GUI: true
+GUI: false
 
 # Show players controls
 # (Touch, Mouse or Controller)
-Controls: true
+Controls: false
 
 # Show players health
-Health: true
+Health: false
 
 # Show players position
-Position: true
+Position: false
 ...
